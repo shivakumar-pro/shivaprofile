@@ -19,8 +19,8 @@ downbtn.onclick = function(){
 }
 function myFunction() {
     document.getElementById("myDIV").innerHTML = "<h1>7829531238</h1>";
-    var x = document.getElementById("myDIV");
+    // var x = document.getElementById("myDIV");
     
-    x.style.display = "myDIV";
+    // x.style.display = "myDIV";
     
   }

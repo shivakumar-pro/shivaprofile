@@ -154,3 +154,11 @@ nav{
     left: 0;
     top: 0;
 }
+
+
+
+  @media screen and (max-width: 1000px) {
+    .controls{
+        right: -8%;
+    }    
+  }
