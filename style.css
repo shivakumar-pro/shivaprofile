@@ -46,6 +46,7 @@ nav{
     width: 1000px;
     height: 1000px;
     position: absolute;
+    z-index: 1000;
     top: 50%;
     left: -10%;
     transform: translateY(-50%);
